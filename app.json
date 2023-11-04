@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيره ابداً",
-      "value": "https://github.com/githupsource/source_reefz",
+      "value": "https://github.com/monzer660/source_Al_RADI",
       "required": false
     }
     },
